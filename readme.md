@@ -2,7 +2,10 @@
 
 ## CLI
 
-- bati A cat(1) clone with wings. https://github.com/sharkdp/bathochromy
+- bat: cat(1) clone with wings. 
+  https://github.com/sharkdp/bathochromy
+- fd: A simple, fast and user-friendly alternative to 'find' 
+  https://github.com/sharkdp/fd
 
 ## Keyboard
 
