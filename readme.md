@@ -9,9 +9,16 @@ cat(1) clone with wings.
 https://github.com/sharkdp/bathochromy
 
 - fd
+
 A simple, fast and user-friendly alternative to 'find'
 
 https://github.com/sharkdp/fd
+
+- httpie
+
+Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
+
+https://github.com/jakubroztocil/httpie
 
 ## Keyboard Configuration & Customization
 
