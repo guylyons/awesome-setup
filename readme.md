@@ -36,3 +36,7 @@ https://codewithoutrules.com/2016/11/18/rsi-solution/
 
 ### Apptivator
 https://github.com/acheronfail/apptivator
+
+### Lungo
+
+https://blog.sindresorhus.com/lungo-b364a6c2745f
