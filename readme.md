@@ -11,7 +11,13 @@ https://github.com/sharkdp/bathochromy
 - fd
 A simple, fast and user-friendly alternative to 'find'
 
+- httpie
+
 https://github.com/sharkdp/fd
+
+## Note Taking
+- Notion
+https://notion.so
 
 ## Keyboard Configuration & Customization
 
