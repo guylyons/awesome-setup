@@ -36,6 +36,10 @@ http://chrissvec.com/configuring-microsoft-sculpt-keyboard-for-mac/
 ### RSI
 https://codewithoutrules.com/2016/11/18/rsi-solution/
 
+- evil-mode
+- 
+https://github.com/emacs-evil/evil
+
 ### Karabiner
 
 - Post Escape if Command_R is pressed alone
