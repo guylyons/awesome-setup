@@ -2,6 +2,12 @@
 
 ## Commmand Line Tools 
 
+- fx
+
+https://github.com/antonmedv/fx
+
+Command-line tool and terminal JSON viewer 🔥
+
 - bat
 
 cat(1) clone with wings.
